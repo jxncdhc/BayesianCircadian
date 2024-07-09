@@ -3,4 +3,4 @@
 
 ```{R}
 library(devtools)
-install_github("BayesianCircadian") 
+install_github("/BayesianCircadian") 
