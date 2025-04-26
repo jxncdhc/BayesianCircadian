@@ -18,7 +18,7 @@ bioRxiv 2024.10.28.620703; doi: https://doi.org/10.1101/2024.10.28.620703
 
 ## Short tutorial for Bayesian circadian detection
 
-### Without Prior Information
+### Without orior information
 ```{R}
 set.seed(32611)
 G=1000 
@@ -57,7 +57,7 @@ yy <- rbind(yy1,yy0)
 bayes_rhythmicity(yy,tt,M=1000)
 ```
 
-### With Prior Information
+### With prior information
 ```{R}
 set.seed(32611)
 G=1000 
