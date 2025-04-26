@@ -18,7 +18,7 @@ bioRxiv 2024.10.28.620703; doi: https://doi.org/10.1101/2024.10.28.620703
 
 ## Short tutorial for Bayesian circadian detection
 
-### Without orior information
+### Without prior information
 ```{R}
 set.seed(32611)
 G=1000 
