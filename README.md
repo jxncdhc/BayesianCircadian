@@ -11,11 +11,14 @@ install_github("jxncdhc/BayesianCircadian")
 ```
 
 ## Citation
+A Bayesian Framework for Genome-wide Circadian Rhythmicity Biomarker Detection
+Haocheng Ding, Lingsong Meng, Yutao Zhang, Andrew J. Bryant, Chengguo Xing, Karyn A. Esser, Li Chen, Zhiguang Huo
+bioRxiv 2024.10.28.620703; doi: https://doi.org/10.1101/2024.10.28.620703
 
-## Full tutorial
 
 ## Short tutorial for Bayesian circadian detection
 
+### Without Prior Information
 ```{R}
 set.seed(32611)
 G=1000 
@@ -54,7 +57,7 @@ yy <- rbind(yy1,yy0)
 bayes_rhythmicity(yy,tt,M=1000)
 ```
 
-## Short tutorial for Bayesian circadian detection with prior information
+### With Prior Information
 ```{R}
 set.seed(32611)
 G=1000 
