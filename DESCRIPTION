@@ -1,4 +1,4 @@
-Package: BayesianCircadian
+Package: BayesCircRhy
 Title: An R package for circadian rhythmicity with Bayesian method
 Version: 0.0.0.9000
 Date: 2024-02-07
@@ -7,9 +7,9 @@ Maintainer: Zhiguang Huo <zhuo@ufl.edu>
 biocViews: Statistical Method, Software
 VignetteBuilder: knitr
 Description: What the package does (one paragraph).
-License:  GPL-3
+License: GPL-3
 Depends: R (>= 3.6), MASS, invgamma
 Imports: MASS, invgamma
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
