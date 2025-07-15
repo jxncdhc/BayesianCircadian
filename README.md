@@ -1,5 +1,5 @@
 # BayesCircRhy
-Omics data circadian analysis with Bayesian approaches.
+Transcriptomic data circadian analysis with Bayesian approaches.
 
 
 ## Install This Package from github
