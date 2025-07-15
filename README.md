@@ -1,4 +1,4 @@
-# BayesianCircadian
+# BayesCircRhy
 Omics data circadian analysis with Bayesian approaches.
 
 
@@ -7,7 +7,7 @@ Omics data circadian analysis with Bayesian approaches.
 
 ```{R}
 library(devtools)
-install_github("jxncdhc/BayesianCircadian") 
+install_github("jxncdhc/BayesCircRhy") 
 ```
 
 ## Citation
