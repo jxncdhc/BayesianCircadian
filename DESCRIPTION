@@ -6,7 +6,7 @@ Author: Zhiguang Huo, Haocheng Ding
 Maintainer: Haocheng Ding <hading@augusta.edu>
 biocViews: Statistical Method, Software
 VignetteBuilder: knitr
-Description: What the package does (one paragraph).
+Description: The Bayesian circadian rhythmicity detection method (BayesCircRhy) demonstrates superior statistical power and reliability for identifying circadian rhythms in transcriptomic applications. It effectively incorporates prior biological knowledge and offers a comprehensive framework for quantifying uncertainty in predictions and parameter estimates, which is invaluable for assessing the variability and robustness of circadian biomarkers.
 License: GPL-3
 Depends: R (>= 3.6), MASS, invgamma
 Imports: MASS, invgamma
