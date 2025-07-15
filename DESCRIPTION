@@ -3,7 +3,7 @@ Title: An R package for circadian rhythmicity with Bayesian method
 Version: 0.0.0.9000
 Date: 2024-02-07
 Author: Zhiguang Huo, Haocheng Ding
-Maintainer: Zhiguang Huo <zhuo@ufl.edu>
+Maintainer: Haocheng Ding <hading@augusta.edu>
 biocViews: Statistical Method, Software
 VignetteBuilder: knitr
 Description: What the package does (one paragraph).
