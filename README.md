@@ -11,9 +11,7 @@ install_github("jxncdhc/BayesCircRhy")
 ```
 
 ## Citation
-A Bayesian Framework for Genome-wide Circadian Rhythmicity Biomarker Detection
-Haocheng Ding, Lingsong Meng, Yutao Zhang, Andrew J. Bryant, Chengguo Xing, Karyn A. Esser, Li Chen, Zhiguang Huo
-bioRxiv 2024.10.28.620703; doi: https://doi.org/10.1101/2024.10.28.620703
+Haocheng Ding, Lingsong Meng, Yutao Zhang, Andrew J Bryant, Chengguo Xing, Karyn A Esser, Li Chen, Yitong Feng, Zhiguang Huo, A Bayesian framework for genome-wide circadian rhythmicity biomarker detection, Briefings in Bioinformatics, Volume 26, Issue 5, September 2025, bbaf552, https://doi.org/10.1093/bib/bbaf552
 
 
 ## Short tutorial for Bayesian circadian detection
